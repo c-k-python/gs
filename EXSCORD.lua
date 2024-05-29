@@ -1,5 +1,4 @@
---Panorama.Open().SteamOverlayAPI.OpenExternalBrowserURL("https://www.google.com/maps/@50.2860626,127.525107,48m")
---на 199 меняешь если чё с беты на релиз итд
+
 local start_time = Utils.UnixTime()
 local DEBUG = false
 
